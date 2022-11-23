@@ -1,2 +1,2 @@
 # DuckStore.github.io a
-theme: THEME-NAME
+theme: Minimal
